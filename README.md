@@ -41,6 +41,20 @@
 
 古诗词中有一些生僻字，这些生僻字属于 utf8mb4 字符，在许多设备中无法显示，故而使用“?”来替代。
 
+## 相关应用
+
+这里收集了使用此数据的有趣应用，欢迎补充。
+
+### [以诗之名](https://poem.werner.wiki/)
+
+搜索你的名字源于哪句古诗词。
+
+![以诗之名二维码](image/poem2.png)
+
+只做了手机版，扫码打开：
+
+![以诗之名二维码](image/poem1.png)
+
 ## License
 
 [MIT](https://github.com/werner-wiki/Poetry/blob/master/LICENSE) 许可证。
