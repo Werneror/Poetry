@@ -1,2 +1,5 @@
 *.pyc
 poetry.csv
+
+# macOS
+.DS_Store
